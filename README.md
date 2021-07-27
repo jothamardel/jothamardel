@@ -15,10 +15,11 @@
 <br />
 <!--  🔭 -->
 ### Languages, Frameworks and Tools
+<br />
 
-<img align="left" src="https://img.shields.io/static/v1?&message=Javacript&color=yellow" />
+<img  src="https://img.shields.io/static/v1?&message=Javacript&color=yellow" />
 <img align="left" src="https://img.shields.io/static/v1?&message=React&color=dodgerblue" />
-<img align="left" src="https://img.shields.io/static/v1?&message=React Native&color=dodgerblue" />
+<img  src="https://img.shields.io/static/v1?&message=React Native&color=dodgerblue" />
 <img align="left" src="https://img.shields.io/static/v1?&message=Docker&color=blue" />
 <img align="left" src="https://img.shields.io/static/v1?&message=Node&color=green" />
 <img align="left" src="https://img.shields.io/static/v1?&message=Git&color=red" />
