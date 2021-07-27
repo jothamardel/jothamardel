@@ -5,7 +5,7 @@
 
 -   I have a background in Electronics Computer & Networking :v:
 
--   I have 3 year+ Freelance experience working in different sectors :bank:
+-   I have 3 year+ Freelance experience working on diverse projects :bank:
 
 <!-- -   I have been doing software engineering professionally for about a year now :rocket: -->
 
