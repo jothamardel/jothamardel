@@ -1,18 +1,27 @@
 ### Hi there, I'm Mbiplang Ardel (#theVillageProgrammer)👋!
 
 
+## I'm a Full Stack developer !
 
+-   I have a background in Electronics Computer & Networking :v:
 
-🔭 I’m currently working on enhancing learning for students via an app connecting them to their lectures.
+-   I have 3 year+ Freelance experience working with different sectors :bank:
+
+<!-- -   I have been doing software engineering professionally for about a year now :rocket: -->
+
+-   My Long term goal is to become a Devops Engineer 🌱 :fire: :fire:
+
+- I’m currently working on enhancing learning for students via an app connecting them to their lectures. :rocket:
 <br />
-🌱 I’m currently learning Docker.
-
+<!--  🔭 -->
 ### Languages, Frameworks and Tools
 
-<!-- 
-<img align="left" src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" /> -->
-<img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img align="left" src="https://img.shields.io/static/v1?&message=Javacript&color=yellow" />
+<img align="left" src="https://img.shields.io/static/v1?&message=React&color=dodgerblue" />
+<img align="left" src="https://img.shields.io/static/v1?&message=React Native&color=dodgerblue" />
+<img align="left" src="https://img.shields.io/static/v1?&message=Docker&color=blue" />
+<img align="left" src="https://img.shields.io/static/v1?&message=Node&color=green" />
+<img align="left" src="https://img.shields.io/static/v1?&message=Git&color=red" />
 <br />
 <br />
 
