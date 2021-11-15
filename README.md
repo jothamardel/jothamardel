@@ -5,9 +5,9 @@
 
 -   I have a background in Electronics Computer & Networking :v:
 
--   Mentored 50+ developers (Here is a link to view my mentees: https://guarded-wildwood-57519.herokuapp.com ) :v:
+-   Mentored 50+ developers from zero to deploying their projects with React (Here is a link to view my mentees: https://www.npool.com.ng/ ) :v:
 
--   I have 3 year+ Freelance experience working on diverse projects :bank:
+-   I have 4 year+ Freelance experience working on diverse projects :bank:
 
 <!-- -   I have been doing software engineering professionally for about a year now :rocket: -->
 
