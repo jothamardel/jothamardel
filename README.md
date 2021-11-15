@@ -5,7 +5,7 @@
 
 -   I have a background in Electronics Computer & Networking :v:
 
--   Mentored 50+ developers from zero to deploying their projects with React (Here is a link to view my mentees: https://www.npool.com.ng/ ) :v:
+-   Mentored 50+ developers from zero to deploying their projects with React (Here is a link to view my mentees: https://www.npool.com.ng/pool ) 🔥🔥
 
 -   I have 4 year+ Freelance experience working on diverse projects :bank:
 
