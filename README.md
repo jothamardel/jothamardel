@@ -7,13 +7,13 @@
 
 -   Mentored 50+ developers from zero to deploying their projects with React (Here is a link to view my mentees: https://www.npool.com.ng/pool ) 🔥🔥
 
--   I have 4 year+ Freelance experience working on diverse projects :bank:
+-   I have 4 years+ Freelance experience working on diverse projects :bank:
 
 <!-- -   I have been doing software engineering professionally for about a year now :rocket: -->
 
 -   My Long term goal is to become a Devops Engineer 🌱 :fire: :fire:
 
-- I’m currently working on enhancing learning for students via an app connecting them to their lectures. :rocket:
+- I’m currently working on enhancing learning for students via an app connecting them to their lecturers. :rocket:
 <br />
 <!--  🔭 -->
 ### Languages, Frameworks and Tools
