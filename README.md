@@ -9,9 +9,9 @@ I'm a software engineer with experience on both ends of the stack.
 In the past years I've built and deploy full-fledged applications for educational purposes, community building, ecommerce etc...
 
 Fortunately, I've had the opportunity to help other software rockstars🔥 start their career in software engineering and I still mentor a lot of developers become top-notch respected engineers.
-I run a coding bootcamp(click on the image below to find out more)🌱
+I run a coding bootcamp called Bluehouse Bootcamp🌱
 
-![Logo](https://www.bluehouseng.com/img/bluehouse.jpg)
+<!-- ![Logo](https://www.bluehouseng.com/img/bluehouse.jpg) -->
 
 
 ## 🛠 Skills
