@@ -1,32 +1,38 @@
-### Hi there, I'm Mbiplang Ardel (#theVillageProgrammer)👋!
+
+# Mbiplang Ardel
+
+The Tech Evangelist👋
 
 
-## I'm a Full Stack developer and Instructor!
+## 🚀 About Me
+I'm a software engineer with experience on both ends of the stack. 
+In the past years I've built and deploy full-fledged applications for educational purposes, community building, ecommerce etc...
 
--   I have a background in Electronics Computer & Networking :v:
+Fortunately, I've had the opportunity to help other software rockstars🔥 start their career in software engineering and I still mentor a lot of developers become top-notch respected engineers.
+I run a coding bootcamp(click on the image below to find out more)🌱
 
--   Mentored 50+ developers from zero to deploying their projects with React (Here is a link to view my mentees: https://www.npool.com.ng/pool ) 🔥🔥
+![Logo](https://www.bluehouseng.com/img/bluehouse.jpg)
 
--   I have 4 years+ Freelance experience working on diverse projects :bank:
 
-<!-- -   I have been doing software engineering professionally for about a year now :rocket: -->
+## 🛠 Skills
+Project Management, Communication, Active listener, Team player
 
--   My Long term goal is to become a Devops Engineer 🌱 :fire: :fire:
 
-- I’m currently working on enhancing learning for students via an app connecting them to their lecturers. :rocket:
-<br />
-<!--  🔭 -->
-### Languages, Frameworks and Tools
-<br />
+## Tech Stack
 
-<img  src="https://img.shields.io/static/v1?&message=Javacript&color=yellow" />
-<img align="left" src="https://img.shields.io/static/v1?&message=React&color=dodgerblue" />
-<img  src="https://img.shields.io/static/v1?&message=React Native&color=dodgerblue" />
-<img align="left" src="https://img.shields.io/static/v1?&message=Docker&color=blue" />
-<img align="left" src="https://img.shields.io/static/v1?&message=Node&color=green" />
-<img align="left" src="https://img.shields.io/static/v1?&message=Git&color=red" />
-<br />
-<br />
+**Client:** React, Redux, React-Native, TailwindCSS
+
+**Server:** Node, Express
+
+**Database:** PostgreSQL, MongoDB
+
+**Data structures & Algorithms:** Time & Space Complexity, Stacks, Queues, Binary tree, Graphs, merge sort, quick sort etc...
+
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+
 
 ### connect with me :stuck_out_tongue_winking_eye:
 
